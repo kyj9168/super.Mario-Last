@@ -21,10 +21,7 @@ import model.vo.Member;
 
 public class gameEnd extends JPanel{
 	ImageIcon icon;
-	private JTextField nameField;
-	private JTextField textField;
-	private JPasswordField passwordField;
-	private JTextField hpField;
+	
 	private JFrame mf;
 	private JPanel panel;
 	ArrayList<Member> list = new ArrayList<Member>();
